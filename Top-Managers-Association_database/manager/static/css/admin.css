@@ -1,0 +1,11 @@
+#header,
+caption {
+  background: #aef1fa !important;
+}
+
+.breadcrumbs,
+h2,
+[type="submit"] {
+  background: #aef1fa !important;
+  color: white !important;
+}
